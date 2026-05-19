@@ -1,0 +1,10 @@
+=== RELATÓRIO DE VERIFICAÇÃO ===
+
+1. Versão do Node (package.json): 18.x
+2. @types/node instalado (package.json): ^24.12.4
+3. Tipos definidos (tsconfig.json): node
+4. Ignorar depreciações (tsconfig.json): 6.0
+5. Node Modules existentes: True
+
+==============================
+Se a versão do Node for '18.x' e os tipos estiverem 'node', estamos prontos!
