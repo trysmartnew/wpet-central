@@ -157,5 +157,8 @@
   },
   "engines": {
     "node": "20.x"
+  },
+  "prisma": {
+    "schema": "./prisma/postgresql-schema.prisma"
   }
 }
